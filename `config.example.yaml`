@@ -1,0 +1,4 @@
+```yaml
+   min_spread: 1.2
+   max_slippage: 0.5
+   mexc_trading: enabled
